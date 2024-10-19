@@ -1,5 +1,3 @@
-function missingChar(str, n) {
-    return str.replace(str.charAt(n), '')
-}
+const missingChar = (str, n) => str.replace(str.charAt(n), '')
 
 missingChar("hello", 2)
