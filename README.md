@@ -6,4 +6,4 @@ There is only once Warmup_1 part for now.
 There are all solutions of the warmup-1 part in this page.
 
 2. [warmup-2 sulutions](https://github.com/junior-aliy/coding-js-solutions/tree/main/warmup-2)
-There are 15 solutions of the warmup-2 part in this page.
+There are all solutions of the warmup-2 part in this page.
